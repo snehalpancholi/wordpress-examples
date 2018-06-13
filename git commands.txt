@@ -1,0 +1,11 @@
+git clone [repository url]
+
+cd clonedir
+
+git add .
+
+
+git commit -m "First commit"
+
+
+git push origin master
